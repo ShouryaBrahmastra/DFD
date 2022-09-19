@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T15:14:42.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.3" etag="y1BxFTBU9d_9ck2ciuBt" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-19T15:18:22.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.3" etag="2fkvaaJ3jnQTRtp0TKM6" type="github">
   <diagram id="sZ0opgbdx6WAr5Ih1IuC" name="Page-1">
-    <mxGraphModel dx="798" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="610" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,18 +155,17 @@
         <mxCell id="Gsfxx9Z68uU7SboIG1dY-85" value="Book issuing status" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="690" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gsfxx9Z68uU7SboIG1dY-90" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Gsfxx9Z68uU7SboIG1dY-45">
+        <mxCell id="Gsfxx9Z68uU7SboIG1dY-90" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=-0.011;exitY=0.338;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Gsfxx9Z68uU7SboIG1dY-130" target="Gsfxx9Z68uU7SboIG1dY-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="530" as="sourcePoint" />
+            <mxPoint x="170" y="530" as="sourcePoint" />
             <mxPoint x="290" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="230" y="530" />
               <mxPoint x="50" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Gsfxx9Z68uU7SboIG1dY-91" value="Issued Book" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="500" width="90" height="30" as="geometry" />
+          <mxGeometry x="60" y="500" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gsfxx9Z68uU7SboIG1dY-92" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -293,6 +292,30 @@
         </mxCell>
         <mxCell id="Gsfxx9Z68uU7SboIG1dY-124" value="3.3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="455" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gsfxx9Z68uU7SboIG1dY-127" value="Book Title" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="510" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gsfxx9Z68uU7SboIG1dY-128" value="Book ID&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Book%20Title%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22530%22%20y%3D%22510%22%20width%3D%22100%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="510" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gsfxx9Z68uU7SboIG1dY-129" value="Book Author" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="510" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gsfxx9Z68uU7SboIG1dY-130" value="Date of Issue &amp;amp; return" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="510" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gsfxx9Z68uU7SboIG1dY-131" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Gsfxx9Z68uU7SboIG1dY-127">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="240" as="sourcePoint" />
+            <mxPoint x="650" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gsfxx9Z68uU7SboIG1dY-132" value="Updated Status" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="690" y="460" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
