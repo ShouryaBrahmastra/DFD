@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T15:10:53.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.3" etag="QQQHYhdz1qE-Vb-QTYgm" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-19T15:14:42.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.3" etag="y1BxFTBU9d_9ck2ciuBt" type="github">
   <diagram id="sZ0opgbdx6WAr5Ih1IuC" name="Page-1">
     <mxGraphModel dx="798" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -155,12 +155,12 @@
         <mxCell id="Gsfxx9Z68uU7SboIG1dY-85" value="Book issuing status" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="690" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gsfxx9Z68uU7SboIG1dY-90" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gsfxx9Z68uU7SboIG1dY-83" target="Gsfxx9Z68uU7SboIG1dY-45">
+        <mxCell id="Gsfxx9Z68uU7SboIG1dY-90" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Gsfxx9Z68uU7SboIG1dY-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="530" as="sourcePoint" />
+            <mxPoint x="270" y="530" as="sourcePoint" />
             <mxPoint x="290" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="400" y="530" />
+              <mxPoint x="230" y="530" />
               <mxPoint x="50" y="530" />
             </Array>
           </mxGeometry>
@@ -282,7 +282,7 @@
         <mxCell id="Gsfxx9Z68uU7SboIG1dY-117" value="Book Author" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="350" width="75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gsfxx9Z68uU7SboIG1dY-118" value="Book Process" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gsfxx9Z68uU7SboIG1dY-118" value="Book type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="447.5" y="350" width="75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gsfxx9Z68uU7SboIG1dY-122" value="3.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
